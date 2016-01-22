@@ -1,0 +1,17 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+#banner{
+        background-image:url("Iphone.png");
+        
+        font-weight:bold;
+        font-size:130%;
+                
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      
+}
