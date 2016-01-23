@@ -18,16 +18,30 @@ body {
 }
 
 #last{
-        background-image:url("blue.jpg");
-        width:100%;
-        height:auto;
-        background-size:cover;
-        font-weight:bold;
-        font-size:130%;
+        background-image:url("horse.jpg");
+      
         
-        background-position: 50% 50%;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+        
 }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+ 
+.centered {
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+    
+
+
+
+
 
 
