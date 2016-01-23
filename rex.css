@@ -19,9 +19,15 @@ body {
 
 #last{
         background-image:url("horse.jpg");
+        
+}
     
-        
-        
+            
+}
+
+#first{
+        background-image:url("h.jpg");
+             
 }
 
 html, body {
