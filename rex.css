@@ -19,7 +19,7 @@ body {
 
 #last{
         background-image:url("horse.jpg");
-      
+    
         
         
 }
@@ -34,7 +34,7 @@ html, body {
 .centered {
   position: fixed;
   top: 70%;
-  left: 50%;
+  left: 52%;
   margin-top: -50px;
   margin-left: -100px;
 }
